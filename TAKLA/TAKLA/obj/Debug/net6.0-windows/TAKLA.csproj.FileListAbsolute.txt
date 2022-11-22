@@ -1,0 +1,66 @@
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\bin\Debug\net6.0-windows\TAKLA.exe
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\bin\Debug\net6.0-windows\TAKLA.deps.json
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\bin\Debug\net6.0-windows\TAKLA.runtimeconfig.json
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\bin\Debug\net6.0-windows\TAKLA.dll
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\bin\Debug\net6.0-windows\TAKLA.pdb
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.giriş.resources
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.Properties.Resources.resources
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.AssemblyInfo.cs
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.dll
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\obj\Debug\net6.0-windows\refint\TAKLA.dll
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.pdb
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.genruntimeconfig.cache
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\obj\Debug\net6.0-windows\ref\TAKLA.dll
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.Form2.resources
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.csproj.CopyComplete
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.AdminForm.resources
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\bin\Debug\net6.0-windows\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\bin\Debug\net6.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\bin\Debug\net6.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\bin\Debug\net6.0-windows\Microsoft.Data.Tools.Utilities.dll
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\bin\Debug\net6.0-windows\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\User\Desktop\C# projeleri\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.UserForm.resources
+C:\Users\User\Desktop\TAKLA\TAKLA\bin\Debug\net6.0-windows\TAKLA.exe
+C:\Users\User\Desktop\TAKLA\TAKLA\bin\Debug\net6.0-windows\TAKLA.deps.json
+C:\Users\User\Desktop\TAKLA\TAKLA\bin\Debug\net6.0-windows\TAKLA.runtimeconfig.json
+C:\Users\User\Desktop\TAKLA\TAKLA\bin\Debug\net6.0-windows\TAKLA.dll
+C:\Users\User\Desktop\TAKLA\TAKLA\bin\Debug\net6.0-windows\TAKLA.pdb
+C:\Users\User\Desktop\TAKLA\TAKLA\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\TAKLA\TAKLA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\TAKLA\TAKLA\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\TAKLA\TAKLA\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\TAKLA\TAKLA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\TAKLA\TAKLA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\TAKLA\TAKLA\bin\Debug\net6.0-windows\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\User\Desktop\TAKLA\TAKLA\bin\Debug\net6.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\User\Desktop\TAKLA\TAKLA\bin\Debug\net6.0-windows\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\User\Desktop\TAKLA\TAKLA\bin\Debug\net6.0-windows\Microsoft.Data.Tools.Utilities.dll
+C:\Users\User\Desktop\TAKLA\TAKLA\bin\Debug\net6.0-windows\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\User\Desktop\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.AdminForm.resources
+C:\Users\User\Desktop\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.giriş.resources
+C:\Users\User\Desktop\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.Form2.resources
+C:\Users\User\Desktop\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.Properties.Resources.resources
+C:\Users\User\Desktop\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.UserForm.resources
+C:\Users\User\Desktop\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.AssemblyInfo.cs
+C:\Users\User\Desktop\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.csproj.CopyComplete
+C:\Users\User\Desktop\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.dll
+C:\Users\User\Desktop\TAKLA\TAKLA\obj\Debug\net6.0-windows\refint\TAKLA.dll
+C:\Users\User\Desktop\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.pdb
+C:\Users\User\Desktop\TAKLA\TAKLA\obj\Debug\net6.0-windows\TAKLA.genruntimeconfig.cache
+C:\Users\User\Desktop\TAKLA\TAKLA\obj\Debug\net6.0-windows\ref\TAKLA.dll
